@@ -1,6 +1,6 @@
 # Password Generator
 
-A simple and user‑friendly web application that generates strong random passwords. Great for creating secure passwords quickly, with options for length and character types.
+A simple and user‑friendly android application that generates strong random passwords. Great for creating secure passwords quickly, with options for length and character types.
 
 ---
 
