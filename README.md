@@ -4,12 +4,12 @@
 
 ### Generate strong, random passwords in seconds.
 
-A simple and user-friendly app for creating secure passwords quickly, with full control over length and character types.
+A simple and user-friendly Android app for creating secure passwords quickly, with full control over length and character types.
 
-![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![No Backend](https://img.shields.io/badge/Backend-None_Needed-lightgrey?style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-Mobile_Framework-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![License](https://img.shields.io/badge/License-Private-lightgrey?style=for-the-badge)
 
 </div>
 
@@ -42,7 +42,7 @@ Copy the generated password to your clipboard with one tap.
 <td width="50%" valign="top">
 
 **🎨 Minimal UI**
-Clean interface built with just HTML, CSS, and JavaScript — no backend needed.
+Clean, distraction-free interface for generating passwords fast.
 
 </td>
 </tr>
@@ -65,9 +65,38 @@ Clean interface built with just HTML, CSS, and JavaScript — no backend needed.
 
 | Technology | Purpose |
 |:--|:--|
-| 🧱 **HTML5** | App structure |
-| 🎨 **CSS3** | Styling |
-| ⚡ **JavaScript** | Password generation logic & clipboard handling |
+| 🧩 **React Native** | Mobile app framework |
+| 🔷 **TypeScript** | Type safety |
+| ⚡ **JavaScript** | Password generation logic |
+| 📋 **Clipboard API** | Copy-to-clipboard functionality |
+
+<br>
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+| Requirement | Version |
+|:--|:--|
+| Node.js | `>= 18` |
+| Yarn / npm | latest |
+| Android SDK | latest |
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/PasswordGenerator.git
+
+# Navigate to project
+cd PasswordGenerator
+
+# Install dependencies
+yarn install
+
+# Run on Android
+yarn android
+```
 
 <br>
 
@@ -86,6 +115,6 @@ Private project. All rights reserved.
 
 <div align="center">
 
-Built with ❤️ using **HTML, CSS & JavaScript**
+Built with ❤️ using **React Native**
 
 </div>
