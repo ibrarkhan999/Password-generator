@@ -1,28 +1,91 @@
-# Password Generator
+<div align="center">
 
-A simple and user‑friendly android application that generates strong random passwords. Great for creating secure passwords quickly, with options for length and character types.
+# 🔐 Password Generator
 
----
+### Generate strong, random passwords in seconds.
 
-## 🔐 Features
+A simple and user-friendly app for creating secure passwords quickly, with full control over length and character types.
 
-- Generate a random password with adjustable length.  
-- Include/exclude uppercase letters, lowercase letters, numbers, and symbols.  
-- Instantly copy generated password to clipboard.  
-- Minimal and clean UI using just HTML, CSS, and JavaScript — no backend needed.  
+![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![No Backend](https://img.shields.io/badge/Backend-None_Needed-lightgrey?style=for-the-badge)
 
----
+</div>
 
-## 🛠 Technologies Used
+<br>
 
-- **HTML** — Basic page structure  
-- **CSS** — Styling and responsive design  
-- **JavaScript** — Password generation logic + copy‑to‑clipboard functionality  
+## ✨ Features
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Usage
+**🎚️ Adjustable Length**
+Generate a random password with a length you control.
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/ibrarkhan999/Password-generator.git
+</td>
+<td width="50%" valign="top">
+
+**🔤 Character Options**
+Include or exclude uppercase letters, lowercase letters, numbers, and symbols.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📋 Instant Copy**
+Copy the generated password to your clipboard with one tap.
+
+</td>
+<td width="50%" valign="top">
+
+**🎨 Minimal UI**
+Clean interface built with just HTML, CSS, and JavaScript — no backend needed.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎨 How It Works
+
+| Step | Action |
+|:----:|--------|
+| 1️⃣ | Set your desired password **length** |
+| 2️⃣ | Toggle **uppercase**, **lowercase**, **numbers**, and **symbols** |
+| 3️⃣ | Tap **Generate** to create a password |
+| 4️⃣ | Tap **Copy** to send it straight to your clipboard |
+
+<br>
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|:--|:--|
+| 🧱 **HTML5** | App structure |
+| 🎨 **CSS3** | Styling |
+| ⚡ **JavaScript** | Password generation logic & clipboard handling |
+
+<br>
+
+## 🔒 Privacy
+
+> 🛡️ No backend, no network calls, no data collection.
+> Every password is generated locally on your device.
+
+<br>
+
+## 📄 License
+
+Private project. All rights reserved.
+
+<br>
+
+<div align="center">
+
+Built with ❤️ using **HTML, CSS & JavaScript**
+
+</div>
